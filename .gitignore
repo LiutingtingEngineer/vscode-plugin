@@ -1,0 +1,14 @@
+node_modules
+
+# 构建输出目录
+dist
+build
+out
+
+# 临时文件
+*.tmp
+*.swp
+.DS_Store
+
+.vscode-test/
+*.vsix
